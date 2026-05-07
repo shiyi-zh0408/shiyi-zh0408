@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiyi Zhang(张世乙)
-- 👀 I’m interested in Video Understanding and Video Generation.
+- 👀 I’m interested in VLM / LLM Agents and AIGC.
 
 <!---
 shiyi-zh0408/shiyi-zh0408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
